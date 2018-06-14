@@ -1,2 +1,2 @@
 ZODB==5.4.0
-BTrees==5.4.0
+BTrees==4.5.0
